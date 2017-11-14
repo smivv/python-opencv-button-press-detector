@@ -8,6 +8,3 @@ source .env/bin/activate
 pip install numpy
 pip install opencv-python
 deactivate
-
-# start script
-./.env/bin/python3 main.py
