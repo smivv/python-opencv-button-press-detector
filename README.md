@@ -1,6 +1,7 @@
 # Python panel button press detector
  
 Project is the proof of the system concept, that could replace panel buttons with simple camera.
+Project is not done yet.
 
 ### Installing
 
@@ -17,6 +18,12 @@ sh ./install.sh
 ```
 ./.env/bin/python3 main.py
 ```
+
+## Screenshots
+
+### Result Example
+
+![Result Example](https://user-images.githubusercontent.com/17829173/32798782-cd0602e6-c986-11e7-89d3-65bd9b2fe72a.png)
 
 ## Built With
 
