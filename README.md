@@ -1,4 +1,4 @@
-# Python panel button press detector
+# Python panel button press detector (not done yet)
  
 Project is the proof of the system concept, that could replace panel buttons with simple camera.
 Project is not done yet.
